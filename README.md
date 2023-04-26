@@ -17,5 +17,6 @@
 #### Is a Python library used to parse command line arguments. In this case, it is used to define the arguments that can be passed to the application, such as the email address to look up, the API key, the email domain to filter, and others.
 ### -Requests: 
 #### Is a Python library used to send HTTP requests to web servers. In this case, it is used to send requests to the Hunter.io API and get the search results.
-### -Config – This is an external file that contains constants like email address and API key. It is used to separate confidential information from the application source code.
+### -Config:
+#### This is an external file that contains constants like email address and API key. It is used to separate confidential information from the application source code.
 
