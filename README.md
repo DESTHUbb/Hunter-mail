@@ -21,5 +21,5 @@
 #### This is an external file that contains constants like email address and API key. It is used to separate confidential information from the application source code.
 
 # Functions:
-## fetch_emails:
-### 
+## -fetch_emails:
+### The fetch_emails function is what does the fetching of emails. It takes the lookup email address, API base URL, authentication headers, proxies, and command line arguments. It then sends requests to the Hunter.io API and processes the results to find related emails. The function uses a set to deduplicate and a request counter to avoid exceeding the API request limit.
