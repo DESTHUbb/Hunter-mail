@@ -28,3 +28,4 @@
 ### The main function is the main entry point of the program and uses argparse to parse command line arguments. Then, call the fetch_emails function to fetch the emails.
 
 # Use:
+## Config File: The code uses the Hunter.io email address and API key from a configuration file called config.py. Therefore, you will need to create a configuration file with the following values:
