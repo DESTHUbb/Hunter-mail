@@ -20,3 +20,6 @@
 ### -Config:
 #### This is an external file that contains constants like email address and API key. It is used to separate confidential information from the application source code.
 
+# Functions:
+## fetch_emails:
+### 
