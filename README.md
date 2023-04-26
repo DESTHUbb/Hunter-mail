@@ -39,4 +39,6 @@ API_KEY = 'your_hunterio_api_key'
 ### You can save this file in the same directory as the Python file. Make sure you don't share your API key with anyone else.
 
 ### After you have everything set up, you can run the provided code on the command line. For example:
-
+```python
+python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
+```
