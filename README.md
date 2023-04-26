@@ -29,3 +29,9 @@
 
 # Use:
 ## Config File: The code uses the Hunter.io email address and API key from a configuration file called config.py. Therefore, you will need to create a configuration file with the following values:
+
+### This is what should be added in config.py
+```python
+EMAIL = 'your_email_address'
+API_KEY = 'your_hunterio_api_key'
+```
