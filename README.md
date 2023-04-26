@@ -9,3 +9,7 @@
 ## It is a command line application that uses the Hunter.io API to search for emails related to a specific email address.
 
 # Tools:
+
+## For its operation, the following tools are used:
+
+### -Argparse is a Python library used to parse command line arguments. In this case, it is used to define the arguments that can be passed to the application, such as the email address to look up, the API key, the email domain to filter, and others.
