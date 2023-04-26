@@ -1,6 +1,5 @@
 # Python 3.x: Make sure you have Python 3.x installed on your system. You can download the latest version of Python from the official Python website.
 
 # Required modules: The code uses the argparse, requests, and config modules. These modules are not available by default in Python and must be installed separately. You can install them using the pip command on the command line. For example, to install the argparse module, run the following command: 
-```shell
-pip install argparse
-```
+
+- pip install argparse
