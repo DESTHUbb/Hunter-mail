@@ -26,3 +26,5 @@
 
 ## -Main:
 ### The main function is the main entry point of the program and uses argparse to parse command line arguments. Then, call the fetch_emails function to fetch the emails.
+
+# Use:
