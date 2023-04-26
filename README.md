@@ -7,6 +7,7 @@
 # Application operation:
 
 ## It is a command line application that uses the Hunter.io API to search for emails related to a specific email address.
+## This code is used to automate the search for emails related to a specific email address and may be useful for marketing or research purposes.
 
 # Tools:
 
