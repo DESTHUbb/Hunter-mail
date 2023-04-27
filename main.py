@@ -64,3 +64,7 @@ parser.add_argument('--format-phone', action='store_true', help='Format phone nu
 parser.add_argument('--max-requests', type=int, default=10, help='Maximum number of requests to make to the API')
  
 args = parser.parse_args()
+
+   base_url = 'https://api.hunter.io/v2/domain-search?'
+    headers = {'Authorization': f'Bearer {args.api_key}'}
+    proxies = None
