@@ -55,3 +55,5 @@ parser = argparse.ArgumentParser(description='Find and deduplicate email address
     
 parser.add_argument('email', help='Email address to search for')
         
+parser.add_argument('api_key', help='API Key for Hunter.io API')
+
