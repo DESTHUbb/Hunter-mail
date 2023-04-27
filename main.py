@@ -62,4 +62,5 @@ parser.add_argument('--domain', dest='email_domain', help='Filter by email domai
 parser.add_argument('--format-phone', action='store_true', help='Format phone numbers into email addresses')
 
 parser.add_argument('--max-requests', type=int, default=10, help='Maximum number of requests to make to the API')
-    args = parser.parse_args()
+ 
+args = parser.parse_args()
