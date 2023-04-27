@@ -47,3 +47,11 @@ break
                 
         email = email.replace(search_email, format_phone_number(search_email))
         print(email)
+       
+    def main():
+    """Main entry point of the program."""
+    
+    
+    
+        
+        
