@@ -51,7 +51,7 @@ break
     def main():
     """Main entry point of the program."""
     
-    
+parser = argparse.ArgumentParser(description='Find and deduplicate email addresses')
     
         
         
