@@ -18,3 +18,9 @@ def fetch_emails(base_url, search_email, headers, proxies, args):
     """Search for emails related to the specified email address."""
     all_emails = {search_email}
 
+    
+request_count = 0
+    for email in all_emails:
+        if request_count >= args.max_requests:
+            print(f'Max limit of {args.max_requests} requests reached.')
+    
