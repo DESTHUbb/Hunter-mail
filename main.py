@@ -73,4 +73,6 @@ fetch_emails(base_url, args.email, headers, proxies, args)
 
 f __name__ == '__main__':
     try:
-        
+   
+except argparse.ArgumentError:
+
