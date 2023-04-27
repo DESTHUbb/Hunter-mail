@@ -30,5 +30,9 @@ break
     
      response = requests.get(target_url, headers=headers, proxies=proxies)
         response.raise_for_status()
-        
+      
+     data = response.json()
+        for record in data['records']:
+            if 'emails' in record:
+                
         
