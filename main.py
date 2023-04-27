@@ -13,3 +13,7 @@ def format_phone_number(phone_number):
        characters_to_remove = {'-', '.', '(', ')'}
     return ''.join(char for char in phone_number if char not in characters_to_remove)
 
+def fetch_emails(base_url, search_email, headers, proxies, args):
+    """Busca correos electrónicos relacionados con la dirección de correo electrónico especificada."""
+    all_emails = {search_email}
+
