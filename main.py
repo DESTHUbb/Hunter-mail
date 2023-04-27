@@ -23,3 +23,7 @@ request_count = 0
         if request_count >= args.max_requests:
             print(f'Max limit of {args.max_requests} requests reached.')
     
+
+break
+
+        target_url = f'{base_url}emails={email}'
