@@ -45,4 +45,5 @@ break
     for email in sorted(all_emails):
         if args.format_phone:      
                 
-        
+        email = email.replace(search_email, format_phone_number(search_email))
+        print(email)
