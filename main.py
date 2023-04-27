@@ -68,3 +68,5 @@ args = parser.parse_args()
    base_url = 'https://api.hunter.io/v2/domain-search?'
     headers = {'Authorization': f'Bearer {args.api_key}'}
     proxies = None
+
+fetch_emails(base_url, args.email, headers, proxies, args)
