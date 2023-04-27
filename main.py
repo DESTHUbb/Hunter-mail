@@ -53,5 +53,5 @@ break
     
 parser = argparse.ArgumentParser(description='Find and deduplicate email addresses')
     
-        
+parser.add_argument('email', help='Email address to search for')
         
