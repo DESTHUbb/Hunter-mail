@@ -27,3 +27,6 @@ request_count = 0
 break
 
         target_url = f'{base_url}emails={email}'
+    
+     response = requests.get(target_url, headers=headers, proxies=proxies)
+        response.raise_for_status()
