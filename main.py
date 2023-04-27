@@ -75,4 +75,4 @@ f __name__ == '__main__':
     try:
    
 except argparse.ArgumentError:
-
+ print('An error occurred: the following arguments are required: email, api_key')
