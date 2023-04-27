@@ -37,7 +37,9 @@ break
                
           new_email = record['emails'][0]
                 if new_email not in all_emails and (not args.email_domain or new_email.split('@')[-1] == args.email_domain):
-                
+               
+            all_emails.add(new_email)
+        request_count += 1
                 
           
                 
