@@ -41,6 +41,8 @@ break
             all_emails.add(new_email)
         request_count += 1
                 
-          
+    print('Resultados:')
+    for email in sorted(all_emails):
+        if args.format_phone:      
                 
         
