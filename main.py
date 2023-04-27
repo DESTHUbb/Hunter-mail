@@ -58,3 +58,6 @@ parser.add_argument('email', help='Email address to search for')
 parser.add_argument('api_key', help='API Key for Hunter.io API')
 
 parser.add_argument('--domain', dest='email_domain', help='Filter by email domain')
+
+parser.add_argument('--format-phone', action='store_true', help='Format phone numbers into email addresses')
+
