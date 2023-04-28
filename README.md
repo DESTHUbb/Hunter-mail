@@ -50,6 +50,6 @@ python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 [![Argparse](https://user-images.githubusercontent.com/90658763/235024808-d9e3fe1d-fa76-40fc-9404-c28edbf32611.png)](https://docs.python.org/es/3/library/argparse.html)
 
 ## Requests:
-
+[![Argparse](https://user-images.githubusercontent.com/90658763/235024808-d9e3fe1d-fa76-40fc-9404-c28edbf32611.png)](https://docs.python.org/es/3/library/argparse.html)
 
 import config
