@@ -52,4 +52,7 @@ python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 ## Requests:
 [![Requests](https://user-images.githubusercontent.com/90658763/235026743-488143d7-310c-420f-8745-432ec8288d5b.png)](https://pypi.org/project/requests/)
 
-import config
+## Config:
+![image](https://user-images.githubusercontent.com/90658763/235028993-2337cb2f-d2c9-4ceb-a375-0d968735a32a.png)
+
+https://wiki.python.org/moin/ConfigParserShootout
