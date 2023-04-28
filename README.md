@@ -44,6 +44,7 @@ python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 ```
 ### You can also use the optional arguments as described in the code.
 
+## LIBRARIES:
 
 import argparse
 import requests
