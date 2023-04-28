@@ -47,5 +47,7 @@ python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 ## LIBRARIES:
 
 import argparse
+
 import requests
+
 import config
