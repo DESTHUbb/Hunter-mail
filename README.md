@@ -57,7 +57,6 @@ python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 
 ## Hunter.io:
 
-[![Requests](https://user-images.githubusercontent.com/90658763/235026743-488143d7-310c-420f-8745-432ec8288d5b.png)](https://hunter.io/users/sign_in)
-![image](https://user-images.githubusercontent.com/90658763/235299816-3f4899e3-17b6-4fc7-93b7-3e1a2f6c5ed8.png)
+[![Requests](https://user-images.githubusercontent.com/90658763/235299851-b87011fe-25ca-4d42-84c5-fde10ab3fc08.png)](https://hunter.io/users/sign_in)
 
 
