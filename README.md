@@ -31,6 +31,7 @@
 ## Config File: The code uses the Hunter.io email address and API key from a configuration file called config.py. Therefore, you will need to create a configuration file with the following values:
 
 ### This is what should be added in config.py
+
 ```python
 EMAIL = 'your_email_address'
 API_KEY = 'your_hunterio_api_key'
@@ -39,6 +40,7 @@ API_KEY = 'your_hunterio_api_key'
 ### You can save this file in the same directory as the Python file. Make sure you don't share your API key with anyone else.
 
 ### After you have everything set up, you can run the provided code on the command line. For example:
+
 ```python
 python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 ```
