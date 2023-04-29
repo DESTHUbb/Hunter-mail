@@ -46,6 +46,10 @@ python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 
 # LIBRARIES:
 
+## Hunter.io:
+
+[![Hunter.io](https://user-images.githubusercontent.com/90658763/235299851-b87011fe-25ca-4d42-84c5-fde10ab3fc08.png)](https://hunter.io/users/sign_in)
+
 ## Argparse:
 [![Argparse](https://user-images.githubusercontent.com/90658763/235024808-d9e3fe1d-fa76-40fc-9404-c28edbf32611.png)](https://docs.python.org/es/3/library/argparse.html)
 
@@ -55,8 +59,5 @@ python <file_name>.py <email_address_to_lookup> <hunterio_api_key>
 ## Config:
 [![Config](https://user-images.githubusercontent.com/90658763/235028993-2337cb2f-d2c9-4ceb-a375-0d968735a32a.png)](https://wiki.python.org/moin/ConfigParserShootout)
 
-## Hunter.io:
-
-[![Hunter.io](https://user-images.githubusercontent.com/90658763/235299851-b87011fe-25ca-4d42-84c5-fde10ab3fc08.png)](https://hunter.io/users/sign_in)
 
 
