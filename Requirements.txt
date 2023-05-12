@@ -1,8 +1,7 @@
-# Python 3.x:
-# Required modules: The code uses the argparse, requests, and config modules. These modules are not available by default in Python and must be installed separately. You can install them using the pip command on the command line. For example, to install the argparse module, run the following command: 
-
-- pip install argparse
-
-# Hunter.io API Key: To use the Hunter.io API, you will need a valid API key. You can get a free API key by signing up on the Hunter.io website.
+Python 3.x:
+import argparse
+import requests
+import config
+Hunter.io API 
 
 
