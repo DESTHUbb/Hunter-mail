@@ -1,5 +1,5 @@
 Python 3.x:
-import argparse
+argparse
 import requests
 import config
 Hunter.io API 
