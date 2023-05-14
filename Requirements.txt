@@ -1,7 +1,7 @@
 Python 3.x:
-argparse
-requests
-config
-Hunter.io API 
+argparse==2.0
+requests==3.0
+config==4.0
+Hunter.io API==5.0
 
 
